@@ -1,7 +1,7 @@
 <h5 align="center"> Hi there, I'm Tobe 👋</h5>
 
 <hr>
-![Profile Views](https://komarev.com/ghpvc/?username=Chuckibmk&color=green)
+[Profile Views](https://komarev.com/ghpvc/?username=Chuckibmk&color=green)
 
 <h6>A Dedicated Software Developer with 3+ years of experience managing server-side
 development. Skilled in developing backend solutions that ensure robust, efficient, and

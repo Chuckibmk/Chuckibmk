@@ -12,7 +12,7 @@ innovative solutions and driving project success.</h6>
 - **Languages**: Dart, Php, Javascript, Python
 - **Frameworks**: Flutter
 - **Tools**: Git, Firebase, MySqli
-<br>
+<br><br>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Chuckibmk&show_icons=true&theme=gotham">
@@ -22,11 +22,12 @@ innovative solutions and driving project success.</h6>
   </a>
 </p>
 
-<br><br>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="yczar" /></p>
+
 
 <!--
 **Chuckibmk/Chuckibmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

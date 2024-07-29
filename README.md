@@ -14,11 +14,14 @@ innovative solutions and driving project success.</h6>
 - **Tools**: Git, Firebase, MySqli
 <br><br>
 <p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/Chuckibmk/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Chuckibmk&show_icons=true&theme=gotham">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Chuckibmk/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuckibmk&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+  <a href="https://github.com/Chuckibmk/github-readme-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuckibmk&theme=onedark" alt="Chuckibmk" />
   </a>
 </p>
 
@@ -26,7 +29,6 @@ innovative solutions and driving project success.</h6>
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="yczar" /></p>
 
 
 <!--

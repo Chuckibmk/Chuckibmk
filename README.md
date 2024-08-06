@@ -20,6 +20,7 @@ innovative solutions and driving project success.</h6>
   <a href="https://github.com/Chuckibmk/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuckibmk&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
+  <br><br>
   <a href="https://github.com/Chuckibmk/github-readme-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuckibmk&theme=onedark" alt="Chuckibmk" />
   </a>

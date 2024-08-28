@@ -9,7 +9,7 @@ innovative solutions and driving project success.</h6>
 <br><br><br>
 ## Technologies & Tools
 
-- **Languages**: Dart, Php, Javascript, Python
+- **Languages**: Dart, PHP, Javascript, Python
 - **Frameworks**: Flutter
 - **Tools**: Git, Firebase, MySqli
 <br><br>

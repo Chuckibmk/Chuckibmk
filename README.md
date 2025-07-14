@@ -13,9 +13,10 @@ innovative solutions and driving project success.</h6>
 - **Frameworks**: Flutter
 - **Tools**: Git, Firebase, MySqli
 <br><br>
-<p>
-  https://github-profile-trophy.vercel.app/?username=Chuckibmk&theme=onedark
-</p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chuckibmk" alt="Chuckibmk" /></a> </p>
+
 <p align=center>
   <a href="https://github.com/Chuckibmk/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Chuckibmk&show_icons=true&theme=gotham">
@@ -37,7 +38,7 @@ innovative solutions and driving project success.</h6>
 
 <!--
 **Chuckibmk/Chuckibmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chuckibmk&label=Profile%20views&color=0e75b6&style=flat" alt="Chuckibmk"/> </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

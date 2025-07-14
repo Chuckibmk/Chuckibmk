@@ -14,7 +14,7 @@ innovative solutions and driving project success.</h6>
 - **Tools**: Git, Firebase, MySqli
 <br><br>
 <p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Chuckibmk&theme=onedark)](https://github.com/Chuckibmk/github-profile-trophy)
+  https://github-profile-trophy.vercel.app/?username=Chuckibmk&theme=onedark
 </p>
 <p align=center>
   <a href="https://github.com/Chuckibmk/github-readme-stats" title="Go to Source">
